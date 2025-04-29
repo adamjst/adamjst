@@ -1,4 +1,5 @@
 
+![logo](https://github.com/user-attachments/assets/25b928f7-8820-48a1-b007-b4fd6b366bab)
 
 A bit about me.
 - Data Scientist and GIS Practitioner
