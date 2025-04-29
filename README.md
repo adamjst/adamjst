@@ -1,5 +1,5 @@
 
-![My profile pic]("https://github.com/adamjst/adamjst/tree/main/img/profile240403.jpg")
+![My profile pic]("https://github.com/adamjst/adamjst/blob/main/img/profile240403.jpg")
 
 A bit about me.
 - Data Scientist and GIS Practitioner
