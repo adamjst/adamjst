@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/b2d3f9e2-5bfa-41f5-bd6c-f23dbb26ed49" alt="My profile pic" width="300" height="200"
+![My profile pic]("https://github.com/adamjst/adamjst/tree/main/img/profile240403.jpg")
 
 A bit about me.
 - Data Scientist and GIS Practitioner
