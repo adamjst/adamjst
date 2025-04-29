@@ -1,5 +1,5 @@
 
-![logo](https://github.com/user-attachments/assets/25b928f7-8820-48a1-b007-b4fd6b366bab)
+![profile240403](https://github.com/user-attachments/assets/b2d3f9e2-5bfa-41f5-bd6c-f23dbb26ed49)
 
 A bit about me.
 - Data Scientist and GIS Practitioner
