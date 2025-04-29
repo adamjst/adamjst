@@ -1,5 +1,5 @@
 
-![My profile pic]("/img/profile240403.png")
+![My profile pic]("img/profile240403.png")
 
 A bit about me.
 - Data Scientist and GIS Practitioner
