@@ -1,6 +1,3 @@
-
-![profile240403](https://github.com/user-attachments/assets/7c740edc-6c58-4b07-951b-0fc0aeaf7bcf)
-
 A bit about me.
 - Data Scientist and GIS Practitioner
 - Domain knowledge: migration and sports
